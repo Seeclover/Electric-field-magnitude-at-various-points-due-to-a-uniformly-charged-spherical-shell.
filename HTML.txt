@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Three.js Half-Sphere Example</title>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        font-family: monospace;
+      }
+
+      #info {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 5px;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="info"></div>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.131.2/build/three.min.js"></script>
+    <script>
+      // JavaScript 代碼將在此處插入
+    </script>
+  </body>
+</html>
